@@ -1,0 +1,17 @@
+
+
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0%;
+  font-family: 'Trap-Bold';
+  padding: 0;
+  overflow:scroll;
+ 
+}
+
+img{
+  width:100%;
+  display:inline;
+  align-content: center;
+}
